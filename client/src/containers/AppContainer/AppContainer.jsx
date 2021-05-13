@@ -5,13 +5,19 @@ import { Switch, Route, useLocation } from 'react-router-dom';
 import { AppPage } from '../../components/application/AppPage';
 import { useFetch } from '../../hooks/use_fetch';
 import { fetchJSON } from '../../utils/fetchers';
-import { AuthModalContainer } from '../AuthModalContainer';
-import { NewPostModalContainer } from '../NewPostModalContainer';
-import { NotFoundContainer } from '../NotFoundContainer';
-import { PostContainer } from '../PostContainer';
-import { TermContainer } from '../TermContainer';
-import { TimelineContainer } from '../TimelineContainer';
-import { UserProfileContainer } from '../UserProfileContainer';
+import loadable from '@loadable/component';
+
+const AuthModalContainer = loadable(() => import(/* webpackChunkName: "AuthModalContainer" */ '../AuthModalContainer'));
+const NewPostModalContainer = loadable(() =>
+  import(/* webpackChunkName: "NewPostModalContainer" */ '../NewPostModalContainer'),
+);
+const NotFoundContainer = loadable(() => import(/* webpackChunkName: "NotFoundContainer" */ '../NotFoundContainer'));
+const PostContainer = loadable(() => import(/* webpackChunkName: "PostContainer" */ '../PostContainer'));
+const TermContainer = loadable(() => import(/* webpackChunkName: "TermContainer" */ '../TermContainer'));
+const TimelineContainer = loadable(() => import(/* webpackChunkName: "TimelineContainer" */ '../TimelineContainer'));
+const UserProfileContainer = loadable(() =>
+  import(/* webpackChunkName: "UserProfileContainer" */ '../UserProfileContainer'),
+);
 
 /** @type {React.VFC} */
 const AppContainer = () => {

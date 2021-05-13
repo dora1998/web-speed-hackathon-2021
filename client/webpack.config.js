@@ -51,11 +51,13 @@ const config = {
           name: 'fonts/[1].[contenthash].[ext]',
           publicPath: '/',
         },
+        type: 'javascript/auto',
       },
     ],
   },
   output: {
-    filename: 'scripts/[name].js',
+    filename: 'scripts/[name].[contenthash].js',
+    chunkFilename: 'scripts/[name].[contenthash].js',
     publicPath: '/',
     path: DIST_PATH,
   },
@@ -78,7 +80,7 @@ const config = {
     new HtmlWebpackPlugin({
       template: path.resolve(SRC_PATH, './index.html'),
     }),
-    new FontPreloadPlugin(),
+    // new FontPreloadPlugin(),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],
@@ -86,6 +88,9 @@ const config = {
       fs: false,
       path: false,
     },
+  },
+  optimization: {
+    chunkIds: 'named',
   },
 };
 
