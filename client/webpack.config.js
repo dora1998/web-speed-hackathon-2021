@@ -21,7 +21,7 @@ const config = {
       '/api': 'http://localhost:3000',
     },
   },
-  devtool: 'inline-source-map',
+  devtool: 'source-map',
   entry: {
     main: [
       'core-js',
