@@ -56,6 +56,7 @@ const config = {
   },
   output: {
     filename: 'scripts/[name].js',
+    publicPath: '/',
     path: DIST_PATH,
   },
   plugins: [
@@ -77,13 +78,7 @@ const config = {
     new HtmlWebpackPlugin({
       template: path.resolve(SRC_PATH, './index.html'),
     }),
-    new FontPreloadPlugin({
-      // HOTFIX: なぜかpublicPathにautoが含まれる
-      replaceCallback: ({ indexSource, linksAsString }) => {
-        const newLinkAsString = linksAsString.replace(/autofonts/g, 'fonts');
-        return indexSource.replace('{{{links}}}', newLinkAsString);
-      },
-    }),
+    new FontPreloadPlugin(),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],
