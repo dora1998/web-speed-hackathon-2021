@@ -1,11 +1,19 @@
-import http from 'http';
+// import http from 'http';
+import spdy from 'spdy';
 
 import { app } from './app';
 import { insertSeeds } from './seeds';
 import { sequelize } from './sequelize';
 
 async function main() {
-  const server = http.createServer(app);
+  const server = spdy.createServer(
+    {
+      spdy: {
+        plain: true,
+      },
+    },
+    app,
+  );
 
   // データベースの初期化をします
   await sequelize.sync({
