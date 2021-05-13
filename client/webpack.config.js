@@ -2,7 +2,6 @@ const path = require('path');
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const FontPreloadPlugin = require('webpack-font-preload-plugin');
 const webpack = require('webpack');
 
 const SRC_PATH = path.resolve(__dirname, './src');
@@ -80,7 +79,6 @@ const config = {
     new HtmlWebpackPlugin({
       template: path.resolve(SRC_PATH, './index.html'),
     }),
-    // new FontPreloadPlugin(),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],
