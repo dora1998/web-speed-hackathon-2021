@@ -9,13 +9,14 @@ import { fetchBinary } from '../../../utils/fetchers';
  * @typedef {object} Props
  * @property {string} alt
  * @property {string} src
+ * @property {boolean} lazy?
  */
 
 /**
  * アスペクト比を維持したまま、要素のコンテンツボックス全体を埋めるように画像を拡大縮小します
  * @type {React.VFC<Props>}
  */
-const CoveredImage = ({ alt, src }) => {
+const CoveredImage = ({ alt, src, lazy }) => {
   const { data, isLoading } = useFetch(src, fetchBinary);
 
   const imageSize = React.useMemo(() => {
@@ -51,6 +52,7 @@ const CoveredImage = ({ alt, src }) => {
           'w-full h-auto': containerRatio <= imageRatio,
         })}
         src={blobUrl}
+        loading={lazy ? 'lazy' : undefined}
       />
     </div>
   );
