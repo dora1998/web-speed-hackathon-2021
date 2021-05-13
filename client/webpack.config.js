@@ -2,7 +2,7 @@ const path = require('path');
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const PreloadWebpackPlugin = require('@vue/preload-webpack-plugin');
+const FontPreloadPlugin = require('webpack-font-preload-plugin');
 const webpack = require('webpack');
 
 const SRC_PATH = path.resolve(__dirname, './src');
@@ -27,7 +27,6 @@ const config = {
       'core-js',
       'regenerator-runtime/runtime',
       'jquery-binarytransport',
-      path.resolve(SRC_PATH, './index.css'),
       path.resolve(SRC_PATH, './buildinfo.js'),
       path.resolve(SRC_PATH, './index.jsx'),
     ],
@@ -76,10 +75,15 @@ const config = {
       filename: 'styles/[name].css',
     }),
     new HtmlWebpackPlugin({
-      inject: false,
       template: path.resolve(SRC_PATH, './index.html'),
     }),
-    new PreloadWebpackPlugin(),
+    new FontPreloadPlugin({
+      // HOTFIX: なぜかpublicPathにautoが含まれる
+      replaceCallback: ({ indexSource, linksAsString }) => {
+        const newLinkAsString = linksAsString.replace(/autofonts/g, 'fonts');
+        return indexSource.replace('{{{links}}}', newLinkAsString);
+      },
+    }),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],

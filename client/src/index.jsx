@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 
+import './index.css';
 import { AppContainer } from './containers/AppContainer';
 
 window.addEventListener('load', () => {
