@@ -2,6 +2,7 @@ const path = require('path');
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const PreloadWebpackPlugin = require('@vue/preload-webpack-plugin');
 const webpack = require('webpack');
 
 const SRC_PATH = path.resolve(__dirname, './src');
@@ -41,11 +42,16 @@ const config = {
       },
       {
         test: /\.css$/i,
-        use: [
-          { loader: MiniCssExtractPlugin.loader },
-          { loader: 'css-loader', options: { url: false } },
-          { loader: 'postcss-loader' },
-        ],
+        use: [{ loader: MiniCssExtractPlugin.loader }, { loader: 'css-loader' }, { loader: 'postcss-loader' }],
+      },
+      {
+        test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
+        loader: 'file-loader',
+        options: {
+          regExp: /fonts\/(.+)\.(woff2?|eot|ttf|otf)(\?.*)?$/,
+          name: 'fonts/[1].[contenthash].[ext]',
+          publicPath: '/',
+        },
       },
     ],
   },
@@ -73,6 +79,7 @@ const config = {
       inject: false,
       template: path.resolve(SRC_PATH, './index.html'),
     }),
+    new PreloadWebpackPlugin(),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],

@@ -5,7 +5,7 @@
 @charset "utf-8";
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/013.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/013.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+82f1, U+8302, U+8304-8305, U+830e, U+831c, U+8328, U+8336, U+8338, U+8349-834a, U+834f, U+8352,
@@ -25,7 +25,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/000.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/000.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+1-7f, U+a2-a3, U+a5, U+a7-a8, U+ac, U+b0-b1, U+b4, U+b6, U+d7, U+f7, U+2010, U+2013-2016, U+2018-2019,
@@ -40,7 +40,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/045.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/045.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6a83, U+6a8b, U+6a91, U+6a9f, U+6aa1, U+6aab, U+6abd, U+6ac6, U+6ad0, U+6ad4, U+6adc-6add, U+6aec,
@@ -60,7 +60,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/027.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/027.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+7dd5, U+7dd8, U+7ddc-7dde, U+7de1, U+7de4, U+7df2, U+7dfb, U+7e05, U+7e09-7e0b, U+7e12, U+7e1f,
@@ -79,7 +79,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/012.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/012.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+7d44, U+7d4c, U+7d50, U+7d5e, U+7d61-7d62, U+7d66, U+7d71, U+7d75-7d76, U+7d79, U+7d99-7d9a, U+7d9c,
@@ -98,7 +98,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/004.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/004.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+544a, U+5451, U+5468, U+546a, U+5473, U+547c-547d, U+548b-548c, U+54b2-54b3, U+54bd, U+54c0-54c1,
@@ -117,7 +117,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/011.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/011.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+7832, U+7834, U+783a, U+783f, U+785d, U+786b-786c, U+786f, U+7872, U+7881, U+7887, U+788d, U+7891,
@@ -136,7 +136,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/017.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/017.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+4e10, U+4e15, U+4e17, U+4e2a, U+4e31, U+4e36, U+4e3c, U+4e3f, U+4e42, U+4e55-4e56, U+4e58, U+4e62,
@@ -155,7 +155,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/044.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/044.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+626d, U+6273, U+627b, U+6299, U+62a6, U+62d5, U+62fd, U+6303, U+630d, U+6310, U+6332, U+6335,
@@ -175,7 +175,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/040.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/040.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+fa45-fa48, U+fa4a-fa57, U+fa59-fa5c, U+fa5f-fa65, U+fa67-fa6a, U+2000b, U+20b9f, U+2123d, U+2131b,
@@ -184,7 +184,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/023.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/023.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6a78, U+6a84, U+6a8d, U+6a90, U+6a97, U+6a9c, U+6aa0, U+6aa2-6aa3, U+6aaa, U+6aac, U+6aae, U+6ab3,
@@ -204,7 +204,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/041.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/041.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+3406, U+342c, U+342e, U+3468, U+346a, U+3492, U+34bc, U+34c1, U+34c7, U+351f, U+355d-355e, U+3563,
@@ -224,7 +224,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/015.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/015.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+9045, U+9047, U+904a-904b, U+904d-904e, U+9053-9055, U+905c, U+9060-9061, U+9063, U+9065, U+9069,
@@ -243,7 +243,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/022.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/022.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+665d-665f, U+6662, U+6664, U+6667-6668, U+6670, U+6683-6684, U+6688-6689, U+668e, U+6698, U+669d,
@@ -262,7 +262,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/007.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/007.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+62cd, U+62d0, U+62d2-62d3, U+62d8-62d9, U+62db, U+62dd, U+62e0-62e1, U+62ec-62ed, U+62f3, U+62f6-62f7,
@@ -281,7 +281,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/024.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/024.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6f78, U+6f7a, U+6f7c, U+6f80-6f82, U+6f86, U+6f8e, U+6f91, U+6fa1, U+6fa3-6fa4, U+6faa, U+6fb3,
@@ -301,7 +301,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/025.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/025.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+7513, U+7515, U+751e, U+7526, U+752c, U+7538, U+753c, U+7544, U+7546, U+7549-754b, U+754d,
@@ -320,7 +320,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/026.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/026.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+79b3, U+79b9-79ba, U+79c9, U+79d5, U+79e1, U+79e3, U+79e7, U+79ec, U+7a08, U+7a0d, U+7a18-7a19,
@@ -339,7 +339,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/049.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/049.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+87e5-87e6, U+87ea-87eb, U+87ed, U+87f5, U+8801, U+8803, U+880b, U+8813, U+8828, U+882e, U+8832,
@@ -359,7 +359,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/048.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/048.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+80f5, U+80fb, U+810d, U+8116, U+811e, U+8124, U+8127, U+812c, U+8135, U+813d, U+8169, U+8181,
@@ -379,7 +379,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/021.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/021.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6194, U+6196, U+6199-619a, U+61ab-61ac, U+61ae, U+61ba, U+61c3, U+61c6, U+61c8-61cd, U+61e3, U+61e6,
@@ -398,7 +398,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/020.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/020.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+5d90, U+5d9d, U+5da2, U+5dac, U+5dae, U+5db7, U+5dbc-5dbd, U+5dc9, U+5dcd, U+5dd2-5dd3, U+5dd6,
@@ -417,7 +417,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/029.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/029.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+86de-86df, U+86e9, U+86ec, U+86ef, U+86f9, U+86fb, U+8700, U+8703, U+8706, U+8708-870a, U+870d,
@@ -437,7 +437,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/043.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/043.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+593d, U+5946, U+595b, U+595f, U+5975-5976, U+597c, U+599f, U+59ae, U+59bc, U+59c8, U+59cd, U+59de,
@@ -457,7 +457,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/053.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/053.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+28dfb, U+28e1f, U+28e36, U+28e89, U+28eeb, U+28f32, U+28ff8, U+292a0, U+292b1, U+29490, U+295cf,
@@ -466,7 +466,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/014.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/014.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+8a51, U+8a54-8a55, U+8a5e, U+8a60, U+8a63, U+8a66, U+8a69, U+8a6b, U+8a6e, U+8a70-8a73, U+8a87,
@@ -485,7 +485,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/046.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/046.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+71d9, U+71dc, U+7207, U+722b, U+7234, U+7238-7239, U+7242, U+7253, U+7257, U+7263, U+726e-726f,
@@ -505,7 +505,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/008.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/008.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6714-6715, U+6717, U+671b, U+671d, U+671f, U+6728, U+672a-672d, U+6731, U+6734, U+673a, U+673d,
@@ -524,7 +524,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/018.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/018.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+52f3, U+52f5, U+52f8-52f9, U+5306, U+5308, U+530d, U+530f-5310, U+5315, U+531a, U+5323, U+532f,
@@ -543,7 +543,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/037.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/037.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+7501, U+7517, U+752f, U+756f, U+7579, U+7592, U+75ce, U+75e4, U+7600, U+7602, U+7608, U+7615-7616,
@@ -563,7 +563,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/036.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/036.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6a50, U+6a56, U+6a5b, U+6a6b, U+6a73, U+6a89, U+6a94, U+6a9d-6a9e, U+6aa5, U+6ae4, U+6ae7, U+6b1b,
@@ -583,7 +583,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/042.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/042.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+504e, U+5053, U+5057, U+5063, U+5066, U+506a, U+5070, U+5088, U+5092-5093, U+5095-5096, U+509c,
@@ -603,7 +603,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/047.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/047.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+78fa-78fb, U+78fe, U+7910, U+791b, U+7925, U+7930, U+793b, U+794a, U+7958, U+795b, U+7967, U+7972,
@@ -623,7 +623,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/002.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/002.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+4e00-4e01, U+4e03, U+4e07-4e0b, U+4e0d-4e0e, U+4e11, U+4e14, U+4e16, U+4e18-4e19, U+4e1e, U+4e21,
@@ -641,7 +641,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/033.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/033.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+9b22-9b23, U+9b25, U+9b27-9b2a, U+9b2e-9b2f, U+9b31-9b32, U+9b3b, U+9b43-9b44, U+9b4d-9b4f, U+9b51,
@@ -659,7 +659,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/052.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/052.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+21742, U+219c3, U+21c56, U+21d2d, U+21d45, U+21d62, U+21d78, U+21d92, U+21d9c, U+21da1, U+21db7,
@@ -681,7 +681,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/038.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/038.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+833a, U+8343, U+8347, U+8351, U+8355, U+8362, U+837d, U+8386, U+8392, U+8398, U+83a7, U+83a9,
@@ -701,7 +701,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/034.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/034.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+3402, U+34b5, U+34db, U+378d, U+37e2, U+3b22, U+3bb6, U+3bc3, U+3c0f, U+3e3f, U+3f72, U+4264, U+4453,
@@ -721,7 +721,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/009.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/009.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+6bcd-6bce, U+6bd2, U+6bd4, U+6bd8, U+6bdb, U+6c0f, U+6c11, U+6c17, U+6c34, U+6c37-6c38, U+6c3e,
@@ -741,7 +741,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/051.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/051.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+9a31, U+9a36, U+9a44, U+9a4c, U+9a58, U+9aaf, U+9ab7, U+9ab9, U+9ac6, U+9ad0, U+9ad2, U+9ad5, U+9adc,
@@ -761,7 +761,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/019.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/019.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+57e3, U+580a-580b, U+5819, U+581d, U+5821, U+582f, U+583d, U+584b, U+5852, U+5862, U+5870, U+5872,
@@ -780,7 +780,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/003.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/003.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+516c-516d, U+5171, U+5175-5178, U+517c, U+5185-5186, U+518a, U+518d, U+5192, U+5197, U+5199, U+51a0,
@@ -797,7 +797,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/016.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/016.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+9700, U+9707, U+970a, U+971c, U+971e, U+9727, U+9732, U+9752, U+9756, U+9759, U+975e, U+9762, U+9769,
@@ -814,7 +814,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/005.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/005.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+5a01, U+5a03, U+5a18, U+5a20, U+5a29, U+5a2f, U+5a3c, U+5a41, U+5a46, U+5a5a, U+5a66, U+5a7f, U+5a92,
@@ -832,7 +832,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/010.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/010.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+719f, U+71b1, U+71c3, U+71c8, U+71d0, U+71d5, U+71e5-71e6, U+71ed, U+7206, U+722a, U+7235-7236,
@@ -852,7 +852,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/030.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/030.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+8b07, U+8b0c, U+8b10, U+8b14, U+8b16-8b17, U+8b1a, U+8b20, U+8b26, U+8b28, U+8b2b, U+8b33, U+8b3e,
@@ -871,7 +871,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/035.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/035.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+5c7a, U+5c8f, U+5c9f, U+5ca3, U+5caa, U+5cba, U+5ccb, U+5cd0, U+5cd2, U+5cf4, U+5d0d, U+5d27,
@@ -891,7 +891,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/006.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/006.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+5ead, U+5eb5-5eb8, U+5ec3, U+5ec9-5eca, U+5ed3, U+5edf-5ee0, U+5ef6-5ef7, U+5efa-5efc, U+5eff, U+5f01,
@@ -910,7 +910,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/032.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/032.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+965e-965f, U+9666, U+966c, U+9672, U+9677, U+968b, U+968d, U+9695, U+9697-9698, U+96a7-96a8, U+96aa,
@@ -929,7 +929,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/001.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/001.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+a0-a1, U+a4, U+a6, U+a9-ab, U+ad-af, U+b2-b3, U+b7-d6, U+d8-f6, U+f8-109, U+10c-10f, U+111-113,
@@ -950,7 +950,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/028.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/028.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+8216, U+8229, U+822b, U+822e, U+8233, U+8238, U+8240, U+8258-825a, U+825d, U+825f, U+8262, U+8264,
@@ -970,7 +970,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/050.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/050.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+91b6, U+91c3-91c4, U+91da, U+91ec, U+91ee, U+9201, U+920a, U+9216-9217, U+9233, U+9242, U+9247,
@@ -990,7 +990,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/039.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/039.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+92cb-92cc, U+92d3, U+92e0, U+92ff, U+9304, U+931f, U+9321, U+9325, U+9348-934a, U+9364-9365, U+936a,
@@ -1009,7 +1009,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/normal/031.woff) format('woff');
+  src: url(fonts//genei-m-gothic/normal/031.woff) format('woff');
   font-weight: 400;
   font-display: block;
   unicode-range: U+8ffa, U+9005, U+900b, U+900d-900e, U+9011, U+9015-9016, U+901e, U+9021, U+9027, U+9035-9036, U+9039,
@@ -1028,7 +1028,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/013.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/013.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+82f1, U+8302, U+8304-8305, U+830e, U+831c, U+8328, U+8336, U+8338, U+8349-834a, U+834f, U+8352,
@@ -1048,7 +1048,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/000.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/000.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+1-7f, U+a2-a3, U+a5, U+a7-a8, U+ac, U+b0-b1, U+b4, U+b6, U+d7, U+f7, U+2010, U+2013-2016, U+2018-2019,
@@ -1063,7 +1063,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/045.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/045.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6a83, U+6a8b, U+6a91, U+6a9f, U+6aa1, U+6aab, U+6abd, U+6ac6, U+6ad0, U+6ad4, U+6adc-6add, U+6aec,
@@ -1083,7 +1083,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/027.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/027.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+7dd5, U+7dd8, U+7ddc-7dde, U+7de1, U+7de4, U+7df2, U+7dfb, U+7e05, U+7e09-7e0b, U+7e12, U+7e1f,
@@ -1102,7 +1102,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/012.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/012.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+7d44, U+7d4c, U+7d50, U+7d5e, U+7d61-7d62, U+7d66, U+7d71, U+7d75-7d76, U+7d79, U+7d99-7d9a, U+7d9c,
@@ -1121,7 +1121,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/004.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/004.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+544a, U+5451, U+5468, U+546a, U+5473, U+547c-547d, U+548b-548c, U+54b2-54b3, U+54bd, U+54c0-54c1,
@@ -1140,7 +1140,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/011.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/011.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+7832, U+7834, U+783a, U+783f, U+785d, U+786b-786c, U+786f, U+7872, U+7881, U+7887, U+788d, U+7891,
@@ -1159,7 +1159,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/017.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/017.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+4e10, U+4e15, U+4e17, U+4e2a, U+4e31, U+4e36, U+4e3c, U+4e3f, U+4e42, U+4e55-4e56, U+4e58, U+4e62,
@@ -1178,7 +1178,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/044.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/044.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+626d, U+6273, U+627b, U+6299, U+62a6, U+62d5, U+62fd, U+6303, U+630d, U+6310, U+6332, U+6335,
@@ -1198,7 +1198,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/040.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/040.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+fa45-fa48, U+fa4a-fa57, U+fa59-fa5c, U+fa5f-fa65, U+fa67-fa6a, U+2000b, U+20b9f, U+2123d, U+2131b,
@@ -1207,7 +1207,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/023.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/023.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6a78, U+6a84, U+6a8d, U+6a90, U+6a97, U+6a9c, U+6aa0, U+6aa2-6aa3, U+6aaa, U+6aac, U+6aae, U+6ab3,
@@ -1227,7 +1227,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/041.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/041.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+3406, U+342c, U+342e, U+3468, U+346a, U+3492, U+34bc, U+34c1, U+34c7, U+351f, U+355d-355e, U+3563,
@@ -1247,7 +1247,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/015.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/015.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+9045, U+9047, U+904a-904b, U+904d-904e, U+9053-9055, U+905c, U+9060-9061, U+9063, U+9065, U+9069,
@@ -1266,7 +1266,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/022.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/022.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+665d-665f, U+6662, U+6664, U+6667-6668, U+6670, U+6683-6684, U+6688-6689, U+668e, U+6698, U+669d,
@@ -1285,7 +1285,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/007.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/007.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+62cd, U+62d0, U+62d2-62d3, U+62d8-62d9, U+62db, U+62dd, U+62e0-62e1, U+62ec-62ed, U+62f3, U+62f6-62f7,
@@ -1304,7 +1304,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/024.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/024.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6f78, U+6f7a, U+6f7c, U+6f80-6f82, U+6f86, U+6f8e, U+6f91, U+6fa1, U+6fa3-6fa4, U+6faa, U+6fb3,
@@ -1324,7 +1324,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/025.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/025.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+7513, U+7515, U+751e, U+7526, U+752c, U+7538, U+753c, U+7544, U+7546, U+7549-754b, U+754d,
@@ -1343,7 +1343,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/026.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/026.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+79b3, U+79b9-79ba, U+79c9, U+79d5, U+79e1, U+79e3, U+79e7, U+79ec, U+7a08, U+7a0d, U+7a18-7a19,
@@ -1362,7 +1362,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/049.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/049.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+87e5-87e6, U+87ea-87eb, U+87ed, U+87f5, U+8801, U+8803, U+880b, U+8813, U+8828, U+882e, U+8832,
@@ -1382,7 +1382,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/048.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/048.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+80f5, U+80fb, U+810d, U+8116, U+811e, U+8124, U+8127, U+812c, U+8135, U+813d, U+8169, U+8181,
@@ -1402,7 +1402,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/021.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/021.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6194, U+6196, U+6199-619a, U+61ab-61ac, U+61ae, U+61ba, U+61c3, U+61c6, U+61c8-61cd, U+61e3, U+61e6,
@@ -1421,7 +1421,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/020.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/020.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+5d90, U+5d9d, U+5da2, U+5dac, U+5dae, U+5db7, U+5dbc-5dbd, U+5dc9, U+5dcd, U+5dd2-5dd3, U+5dd6,
@@ -1440,7 +1440,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/029.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/029.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+86de-86df, U+86e9, U+86ec, U+86ef, U+86f9, U+86fb, U+8700, U+8703, U+8706, U+8708-870a, U+870d,
@@ -1460,7 +1460,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/043.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/043.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+593d, U+5946, U+595b, U+595f, U+5975-5976, U+597c, U+599f, U+59ae, U+59bc, U+59c8, U+59cd, U+59de,
@@ -1480,7 +1480,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/053.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/053.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+28dfb, U+28e1f, U+28e36, U+28e89, U+28eeb, U+28f32, U+28ff8, U+292a0, U+292b1, U+29490, U+295cf,
@@ -1489,7 +1489,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/014.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/014.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+8a51, U+8a54-8a55, U+8a5e, U+8a60, U+8a63, U+8a66, U+8a69, U+8a6b, U+8a6e, U+8a70-8a73, U+8a87,
@@ -1508,7 +1508,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/046.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/046.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+71d9, U+71dc, U+7207, U+722b, U+7234, U+7238-7239, U+7242, U+7253, U+7257, U+7263, U+726e-726f,
@@ -1528,7 +1528,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/008.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/008.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6714-6715, U+6717, U+671b, U+671d, U+671f, U+6728, U+672a-672d, U+6731, U+6734, U+673a, U+673d,
@@ -1547,7 +1547,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/018.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/018.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+52f3, U+52f5, U+52f8-52f9, U+5306, U+5308, U+530d, U+530f-5310, U+5315, U+531a, U+5323, U+532f,
@@ -1566,7 +1566,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/037.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/037.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+7501, U+7517, U+752f, U+756f, U+7579, U+7592, U+75ce, U+75e4, U+7600, U+7602, U+7608, U+7615-7616,
@@ -1586,7 +1586,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/036.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/036.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6a50, U+6a56, U+6a5b, U+6a6b, U+6a73, U+6a89, U+6a94, U+6a9d-6a9e, U+6aa5, U+6ae4, U+6ae7, U+6b1b,
@@ -1606,7 +1606,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/042.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/042.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+504e, U+5053, U+5057, U+5063, U+5066, U+506a, U+5070, U+5088, U+5092-5093, U+5095-5096, U+509c,
@@ -1626,7 +1626,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/047.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/047.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+78fa-78fb, U+78fe, U+7910, U+791b, U+7925, U+7930, U+793b, U+794a, U+7958, U+795b, U+7967, U+7972,
@@ -1646,7 +1646,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/002.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/002.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+4e00-4e01, U+4e03, U+4e07-4e0b, U+4e0d-4e0e, U+4e11, U+4e14, U+4e16, U+4e18-4e19, U+4e1e, U+4e21,
@@ -1664,7 +1664,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/033.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/033.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+9b22-9b23, U+9b25, U+9b27-9b2a, U+9b2e-9b2f, U+9b31-9b32, U+9b3b, U+9b43-9b44, U+9b4d-9b4f, U+9b51,
@@ -1682,7 +1682,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/052.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/052.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+21742, U+219c3, U+21c56, U+21d2d, U+21d45, U+21d62, U+21d78, U+21d92, U+21d9c, U+21da1, U+21db7,
@@ -1704,7 +1704,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/038.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/038.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+833a, U+8343, U+8347, U+8351, U+8355, U+8362, U+837d, U+8386, U+8392, U+8398, U+83a7, U+83a9,
@@ -1724,7 +1724,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/034.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/034.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+3402, U+34b5, U+34db, U+378d, U+37e2, U+3b22, U+3bb6, U+3bc3, U+3c0f, U+3e3f, U+3f72, U+4264, U+4453,
@@ -1744,7 +1744,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/009.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/009.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+6bcd-6bce, U+6bd2, U+6bd4, U+6bd8, U+6bdb, U+6c0f, U+6c11, U+6c17, U+6c34, U+6c37-6c38, U+6c3e,
@@ -1764,7 +1764,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/051.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/051.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+9a31, U+9a36, U+9a44, U+9a4c, U+9a58, U+9aaf, U+9ab7, U+9ab9, U+9ac6, U+9ad0, U+9ad2, U+9ad5, U+9adc,
@@ -1784,7 +1784,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/019.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/019.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+57e3, U+580a-580b, U+5819, U+581d, U+5821, U+582f, U+583d, U+584b, U+5852, U+5862, U+5870, U+5872,
@@ -1803,7 +1803,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/003.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/003.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+516c-516d, U+5171, U+5175-5178, U+517c, U+5185-5186, U+518a, U+518d, U+5192, U+5197, U+5199, U+51a0,
@@ -1820,7 +1820,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/016.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/016.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+9700, U+9707, U+970a, U+971c, U+971e, U+9727, U+9732, U+9752, U+9756, U+9759, U+975e, U+9762, U+9769,
@@ -1837,7 +1837,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/005.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/005.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+5a01, U+5a03, U+5a18, U+5a20, U+5a29, U+5a2f, U+5a3c, U+5a41, U+5a46, U+5a5a, U+5a66, U+5a7f, U+5a92,
@@ -1855,7 +1855,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/010.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/010.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+719f, U+71b1, U+71c3, U+71c8, U+71d0, U+71d5, U+71e5-71e6, U+71ed, U+7206, U+722a, U+7235-7236,
@@ -1875,7 +1875,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/030.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/030.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+8b07, U+8b0c, U+8b10, U+8b14, U+8b16-8b17, U+8b1a, U+8b20, U+8b26, U+8b28, U+8b2b, U+8b33, U+8b3e,
@@ -1894,7 +1894,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/035.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/035.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+5c7a, U+5c8f, U+5c9f, U+5ca3, U+5caa, U+5cba, U+5ccb, U+5cd0, U+5cd2, U+5cf4, U+5d0d, U+5d27,
@@ -1914,7 +1914,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/006.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/006.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+5ead, U+5eb5-5eb8, U+5ec3, U+5ec9-5eca, U+5ed3, U+5edf-5ee0, U+5ef6-5ef7, U+5efa-5efc, U+5eff, U+5f01,
@@ -1933,7 +1933,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/032.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/032.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+965e-965f, U+9666, U+966c, U+9672, U+9677, U+968b, U+968d, U+9695, U+9697-9698, U+96a7-96a8, U+96aa,
@@ -1952,7 +1952,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/001.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/001.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+a0-a1, U+a4, U+a6, U+a9-ab, U+ad-af, U+b2-b3, U+b7-d6, U+d8-f6, U+f8-109, U+10c-10f, U+111-113,
@@ -1973,7 +1973,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/028.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/028.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+8216, U+8229, U+822b, U+822e, U+8233, U+8238, U+8240, U+8258-825a, U+825d, U+825f, U+8262, U+8264,
@@ -1993,7 +1993,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/050.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/050.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+91b6, U+91c3-91c4, U+91da, U+91ec, U+91ee, U+9201, U+920a, U+9216-9217, U+9233, U+9242, U+9247,
@@ -2013,7 +2013,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/039.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/039.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+92cb-92cc, U+92d3, U+92e0, U+92ff, U+9304, U+931f, U+9321, U+9325, U+9348-934a, U+9364-9365, U+936a,
@@ -2032,7 +2032,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/medium/031.woff) format('woff');
+  src: url(fonts//genei-m-gothic/medium/031.woff) format('woff');
   font-weight: 500;
   font-display: block;
   unicode-range: U+8ffa, U+9005, U+900b, U+900d-900e, U+9011, U+9015-9016, U+901e, U+9021, U+9027, U+9035-9036, U+9039,
@@ -2051,7 +2051,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/013.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/013.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+82f1, U+8302, U+8304-8305, U+830e, U+831c, U+8328, U+8336, U+8338, U+8349-834a, U+834f, U+8352,
@@ -2071,7 +2071,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/000.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/000.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+1-7f, U+a2-a3, U+a5, U+a7-a8, U+ac, U+b0-b1, U+b4, U+b6, U+d7, U+f7, U+2010, U+2013-2016, U+2018-2019,
@@ -2086,7 +2086,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/045.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/045.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6a83, U+6a8b, U+6a91, U+6a9f, U+6aa1, U+6aab, U+6abd, U+6ac6, U+6ad0, U+6ad4, U+6adc-6add, U+6aec,
@@ -2106,7 +2106,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/027.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/027.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+7dd5, U+7dd8, U+7ddc-7dde, U+7de1, U+7de4, U+7df2, U+7dfb, U+7e05, U+7e09-7e0b, U+7e12, U+7e1f,
@@ -2125,7 +2125,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/012.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/012.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+7d44, U+7d4c, U+7d50, U+7d5e, U+7d61-7d62, U+7d66, U+7d71, U+7d75-7d76, U+7d79, U+7d99-7d9a, U+7d9c,
@@ -2144,7 +2144,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/004.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/004.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+544a, U+5451, U+5468, U+546a, U+5473, U+547c-547d, U+548b-548c, U+54b2-54b3, U+54bd, U+54c0-54c1,
@@ -2163,7 +2163,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/011.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/011.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+7832, U+7834, U+783a, U+783f, U+785d, U+786b-786c, U+786f, U+7872, U+7881, U+7887, U+788d, U+7891,
@@ -2182,7 +2182,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/017.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/017.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+4e10, U+4e15, U+4e17, U+4e2a, U+4e31, U+4e36, U+4e3c, U+4e3f, U+4e42, U+4e55-4e56, U+4e58, U+4e62,
@@ -2201,7 +2201,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/044.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/044.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+626d, U+6273, U+627b, U+6299, U+62a6, U+62d5, U+62fd, U+6303, U+630d, U+6310, U+6332, U+6335,
@@ -2221,7 +2221,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/040.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/040.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+fa45-fa48, U+fa4a-fa57, U+fa59-fa5c, U+fa5f-fa65, U+fa67-fa6a, U+2000b, U+20b9f, U+2123d, U+2131b,
@@ -2230,7 +2230,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/023.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/023.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6a78, U+6a84, U+6a8d, U+6a90, U+6a97, U+6a9c, U+6aa0, U+6aa2-6aa3, U+6aaa, U+6aac, U+6aae, U+6ab3,
@@ -2250,7 +2250,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/041.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/041.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+3406, U+342c, U+342e, U+3468, U+346a, U+3492, U+34bc, U+34c1, U+34c7, U+351f, U+355d-355e, U+3563,
@@ -2270,7 +2270,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/015.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/015.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+9045, U+9047, U+904a-904b, U+904d-904e, U+9053-9055, U+905c, U+9060-9061, U+9063, U+9065, U+9069,
@@ -2289,7 +2289,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/022.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/022.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+665d-665f, U+6662, U+6664, U+6667-6668, U+6670, U+6683-6684, U+6688-6689, U+668e, U+6698, U+669d,
@@ -2308,7 +2308,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/007.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/007.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+62cd, U+62d0, U+62d2-62d3, U+62d8-62d9, U+62db, U+62dd, U+62e0-62e1, U+62ec-62ed, U+62f3, U+62f6-62f7,
@@ -2327,7 +2327,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/024.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/024.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6f78, U+6f7a, U+6f7c, U+6f80-6f82, U+6f86, U+6f8e, U+6f91, U+6fa1, U+6fa3-6fa4, U+6faa, U+6fb3,
@@ -2347,7 +2347,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/025.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/025.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+7513, U+7515, U+751e, U+7526, U+752c, U+7538, U+753c, U+7544, U+7546, U+7549-754b, U+754d,
@@ -2366,7 +2366,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/026.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/026.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+79b3, U+79b9-79ba, U+79c9, U+79d5, U+79e1, U+79e3, U+79e7, U+79ec, U+7a08, U+7a0d, U+7a18-7a19,
@@ -2385,7 +2385,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/049.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/049.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+87e5-87e6, U+87ea-87eb, U+87ed, U+87f5, U+8801, U+8803, U+880b, U+8813, U+8828, U+882e, U+8832,
@@ -2405,7 +2405,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/048.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/048.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+80f5, U+80fb, U+810d, U+8116, U+811e, U+8124, U+8127, U+812c, U+8135, U+813d, U+8169, U+8181,
@@ -2425,7 +2425,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/021.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/021.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6194, U+6196, U+6199-619a, U+61ab-61ac, U+61ae, U+61ba, U+61c3, U+61c6, U+61c8-61cd, U+61e3, U+61e6,
@@ -2444,7 +2444,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/020.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/020.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+5d90, U+5d9d, U+5da2, U+5dac, U+5dae, U+5db7, U+5dbc-5dbd, U+5dc9, U+5dcd, U+5dd2-5dd3, U+5dd6,
@@ -2463,7 +2463,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/029.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/029.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+86de-86df, U+86e9, U+86ec, U+86ef, U+86f9, U+86fb, U+8700, U+8703, U+8706, U+8708-870a, U+870d,
@@ -2483,7 +2483,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/043.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/043.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+593d, U+5946, U+595b, U+595f, U+5975-5976, U+597c, U+599f, U+59ae, U+59bc, U+59c8, U+59cd, U+59de,
@@ -2503,7 +2503,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/053.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/053.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+28dfb, U+28e1f, U+28e36, U+28e89, U+28eeb, U+28f32, U+28ff8, U+292a0, U+292b1, U+29490, U+295cf,
@@ -2512,7 +2512,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/014.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/014.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+8a51, U+8a54-8a55, U+8a5e, U+8a60, U+8a63, U+8a66, U+8a69, U+8a6b, U+8a6e, U+8a70-8a73, U+8a87,
@@ -2531,7 +2531,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/046.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/046.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+71d9, U+71dc, U+7207, U+722b, U+7234, U+7238-7239, U+7242, U+7253, U+7257, U+7263, U+726e-726f,
@@ -2551,7 +2551,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/008.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/008.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6714-6715, U+6717, U+671b, U+671d, U+671f, U+6728, U+672a-672d, U+6731, U+6734, U+673a, U+673d,
@@ -2570,7 +2570,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/018.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/018.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+52f3, U+52f5, U+52f8-52f9, U+5306, U+5308, U+530d, U+530f-5310, U+5315, U+531a, U+5323, U+532f,
@@ -2589,7 +2589,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/037.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/037.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+7501, U+7517, U+752f, U+756f, U+7579, U+7592, U+75ce, U+75e4, U+7600, U+7602, U+7608, U+7615-7616,
@@ -2609,7 +2609,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/036.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/036.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6a50, U+6a56, U+6a5b, U+6a6b, U+6a73, U+6a89, U+6a94, U+6a9d-6a9e, U+6aa5, U+6ae4, U+6ae7, U+6b1b,
@@ -2629,7 +2629,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/042.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/042.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+504e, U+5053, U+5057, U+5063, U+5066, U+506a, U+5070, U+5088, U+5092-5093, U+5095-5096, U+509c,
@@ -2649,7 +2649,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/047.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/047.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+78fa-78fb, U+78fe, U+7910, U+791b, U+7925, U+7930, U+793b, U+794a, U+7958, U+795b, U+7967, U+7972,
@@ -2669,7 +2669,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/002.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/002.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+4e00-4e01, U+4e03, U+4e07-4e0b, U+4e0d-4e0e, U+4e11, U+4e14, U+4e16, U+4e18-4e19, U+4e1e, U+4e21,
@@ -2687,7 +2687,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/033.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/033.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+9b22-9b23, U+9b25, U+9b27-9b2a, U+9b2e-9b2f, U+9b31-9b32, U+9b3b, U+9b43-9b44, U+9b4d-9b4f, U+9b51,
@@ -2705,7 +2705,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/052.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/052.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+21742, U+219c3, U+21c56, U+21d2d, U+21d45, U+21d62, U+21d78, U+21d92, U+21d9c, U+21da1, U+21db7,
@@ -2727,7 +2727,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/038.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/038.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+833a, U+8343, U+8347, U+8351, U+8355, U+8362, U+837d, U+8386, U+8392, U+8398, U+83a7, U+83a9,
@@ -2747,7 +2747,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/034.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/034.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+3402, U+34b5, U+34db, U+378d, U+37e2, U+3b22, U+3bb6, U+3bc3, U+3c0f, U+3e3f, U+3f72, U+4264, U+4453,
@@ -2767,7 +2767,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/009.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/009.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+6bcd-6bce, U+6bd2, U+6bd4, U+6bd8, U+6bdb, U+6c0f, U+6c11, U+6c17, U+6c34, U+6c37-6c38, U+6c3e,
@@ -2787,7 +2787,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/051.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/051.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+9a31, U+9a36, U+9a44, U+9a4c, U+9a58, U+9aaf, U+9ab7, U+9ab9, U+9ac6, U+9ad0, U+9ad2, U+9ad5, U+9adc,
@@ -2807,7 +2807,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/019.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/019.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+57e3, U+580a-580b, U+5819, U+581d, U+5821, U+582f, U+583d, U+584b, U+5852, U+5862, U+5870, U+5872,
@@ -2826,7 +2826,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/003.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/003.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+516c-516d, U+5171, U+5175-5178, U+517c, U+5185-5186, U+518a, U+518d, U+5192, U+5197, U+5199, U+51a0,
@@ -2843,7 +2843,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/016.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/016.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+9700, U+9707, U+970a, U+971c, U+971e, U+9727, U+9732, U+9752, U+9756, U+9759, U+975e, U+9762, U+9769,
@@ -2860,7 +2860,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/005.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/005.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+5a01, U+5a03, U+5a18, U+5a20, U+5a29, U+5a2f, U+5a3c, U+5a41, U+5a46, U+5a5a, U+5a66, U+5a7f, U+5a92,
@@ -2878,7 +2878,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/010.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/010.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+719f, U+71b1, U+71c3, U+71c8, U+71d0, U+71d5, U+71e5-71e6, U+71ed, U+7206, U+722a, U+7235-7236,
@@ -2898,7 +2898,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/030.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/030.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+8b07, U+8b0c, U+8b10, U+8b14, U+8b16-8b17, U+8b1a, U+8b20, U+8b26, U+8b28, U+8b2b, U+8b33, U+8b3e,
@@ -2917,7 +2917,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/035.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/035.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+5c7a, U+5c8f, U+5c9f, U+5ca3, U+5caa, U+5cba, U+5ccb, U+5cd0, U+5cd2, U+5cf4, U+5d0d, U+5d27,
@@ -2937,7 +2937,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/006.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/006.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+5ead, U+5eb5-5eb8, U+5ec3, U+5ec9-5eca, U+5ed3, U+5edf-5ee0, U+5ef6-5ef7, U+5efa-5efc, U+5eff, U+5f01,
@@ -2956,7 +2956,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/032.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/032.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+965e-965f, U+9666, U+966c, U+9672, U+9677, U+968b, U+968d, U+9695, U+9697-9698, U+96a7-96a8, U+96aa,
@@ -2975,7 +2975,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/001.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/001.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+a0-a1, U+a4, U+a6, U+a9-ab, U+ad-af, U+b2-b3, U+b7-d6, U+d8-f6, U+f8-109, U+10c-10f, U+111-113,
@@ -2996,7 +2996,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/028.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/028.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+8216, U+8229, U+822b, U+822e, U+8233, U+8238, U+8240, U+8258-825a, U+825d, U+825f, U+8262, U+8264,
@@ -3016,7 +3016,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/050.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/050.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+91b6, U+91c3-91c4, U+91da, U+91ec, U+91ee, U+9201, U+920a, U+9216-9217, U+9233, U+9242, U+9247,
@@ -3036,7 +3036,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/039.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/039.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+92cb-92cc, U+92d3, U+92e0, U+92ff, U+9304, U+931f, U+9321, U+9325, U+9348-934a, U+9364-9365, U+936a,
@@ -3055,7 +3055,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/semiBold/031.woff) format('woff');
+  src: url(fonts//genei-m-gothic/semiBold/031.woff) format('woff');
   font-weight: 600;
   font-display: block;
   unicode-range: U+8ffa, U+9005, U+900b, U+900d-900e, U+9011, U+9015-9016, U+901e, U+9021, U+9027, U+9035-9036, U+9039,
@@ -3074,7 +3074,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/013.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/013.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+82f1, U+8302, U+8304-8305, U+830e, U+831c, U+8328, U+8336, U+8338, U+8349-834a, U+834f, U+8352,
@@ -3094,7 +3094,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/000.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/000.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+1-7f, U+a2-a3, U+a5, U+a7-a8, U+ac, U+b0-b1, U+b4, U+b6, U+d7, U+f7, U+2010, U+2013-2016, U+2018-2019,
@@ -3109,7 +3109,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/045.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/045.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6a83, U+6a8b, U+6a91, U+6a9f, U+6aa1, U+6aab, U+6abd, U+6ac6, U+6ad0, U+6ad4, U+6adc-6add, U+6aec,
@@ -3129,7 +3129,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/027.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/027.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+7dd5, U+7dd8, U+7ddc-7dde, U+7de1, U+7de4, U+7df2, U+7dfb, U+7e05, U+7e09-7e0b, U+7e12, U+7e1f,
@@ -3148,7 +3148,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/012.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/012.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+7d44, U+7d4c, U+7d50, U+7d5e, U+7d61-7d62, U+7d66, U+7d71, U+7d75-7d76, U+7d79, U+7d99-7d9a, U+7d9c,
@@ -3167,7 +3167,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/004.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/004.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+544a, U+5451, U+5468, U+546a, U+5473, U+547c-547d, U+548b-548c, U+54b2-54b3, U+54bd, U+54c0-54c1,
@@ -3186,7 +3186,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/011.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/011.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+7832, U+7834, U+783a, U+783f, U+785d, U+786b-786c, U+786f, U+7872, U+7881, U+7887, U+788d, U+7891,
@@ -3205,7 +3205,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/017.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/017.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+4e10, U+4e15, U+4e17, U+4e2a, U+4e31, U+4e36, U+4e3c, U+4e3f, U+4e42, U+4e55-4e56, U+4e58, U+4e62,
@@ -3224,7 +3224,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/044.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/044.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+626d, U+6273, U+627b, U+6299, U+62a6, U+62d5, U+62fd, U+6303, U+630d, U+6310, U+6332, U+6335,
@@ -3244,7 +3244,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/040.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/040.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+fa45-fa48, U+fa4a-fa57, U+fa59-fa5c, U+fa5f-fa65, U+fa67-fa6a, U+2000b, U+20b9f, U+2123d, U+2131b,
@@ -3253,7 +3253,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/023.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/023.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6a78, U+6a84, U+6a8d, U+6a90, U+6a97, U+6a9c, U+6aa0, U+6aa2-6aa3, U+6aaa, U+6aac, U+6aae, U+6ab3,
@@ -3273,7 +3273,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/041.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/041.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+3406, U+342c, U+342e, U+3468, U+346a, U+3492, U+34bc, U+34c1, U+34c7, U+351f, U+355d-355e, U+3563,
@@ -3293,7 +3293,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/015.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/015.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+9045, U+9047, U+904a-904b, U+904d-904e, U+9053-9055, U+905c, U+9060-9061, U+9063, U+9065, U+9069,
@@ -3312,7 +3312,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/022.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/022.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+665d-665f, U+6662, U+6664, U+6667-6668, U+6670, U+6683-6684, U+6688-6689, U+668e, U+6698, U+669d,
@@ -3331,7 +3331,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/007.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/007.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+62cd, U+62d0, U+62d2-62d3, U+62d8-62d9, U+62db, U+62dd, U+62e0-62e1, U+62ec-62ed, U+62f3, U+62f6-62f7,
@@ -3350,7 +3350,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/024.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/024.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6f78, U+6f7a, U+6f7c, U+6f80-6f82, U+6f86, U+6f8e, U+6f91, U+6fa1, U+6fa3-6fa4, U+6faa, U+6fb3,
@@ -3370,7 +3370,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/025.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/025.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+7513, U+7515, U+751e, U+7526, U+752c, U+7538, U+753c, U+7544, U+7546, U+7549-754b, U+754d,
@@ -3389,7 +3389,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/026.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/026.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+79b3, U+79b9-79ba, U+79c9, U+79d5, U+79e1, U+79e3, U+79e7, U+79ec, U+7a08, U+7a0d, U+7a18-7a19,
@@ -3408,7 +3408,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/049.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/049.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+87e5-87e6, U+87ea-87eb, U+87ed, U+87f5, U+8801, U+8803, U+880b, U+8813, U+8828, U+882e, U+8832,
@@ -3428,7 +3428,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/048.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/048.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+80f5, U+80fb, U+810d, U+8116, U+811e, U+8124, U+8127, U+812c, U+8135, U+813d, U+8169, U+8181,
@@ -3448,7 +3448,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/021.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/021.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6194, U+6196, U+6199-619a, U+61ab-61ac, U+61ae, U+61ba, U+61c3, U+61c6, U+61c8-61cd, U+61e3, U+61e6,
@@ -3467,7 +3467,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/020.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/020.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+5d90, U+5d9d, U+5da2, U+5dac, U+5dae, U+5db7, U+5dbc-5dbd, U+5dc9, U+5dcd, U+5dd2-5dd3, U+5dd6,
@@ -3486,7 +3486,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/029.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/029.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+86de-86df, U+86e9, U+86ec, U+86ef, U+86f9, U+86fb, U+8700, U+8703, U+8706, U+8708-870a, U+870d,
@@ -3506,7 +3506,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/043.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/043.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+593d, U+5946, U+595b, U+595f, U+5975-5976, U+597c, U+599f, U+59ae, U+59bc, U+59c8, U+59cd, U+59de,
@@ -3526,7 +3526,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/053.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/053.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+28dfb, U+28e1f, U+28e36, U+28e89, U+28eeb, U+28f32, U+28ff8, U+292a0, U+292b1, U+29490, U+295cf,
@@ -3535,7 +3535,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/014.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/014.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+8a51, U+8a54-8a55, U+8a5e, U+8a60, U+8a63, U+8a66, U+8a69, U+8a6b, U+8a6e, U+8a70-8a73, U+8a87,
@@ -3554,7 +3554,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/046.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/046.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+71d9, U+71dc, U+7207, U+722b, U+7234, U+7238-7239, U+7242, U+7253, U+7257, U+7263, U+726e-726f,
@@ -3574,7 +3574,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/008.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/008.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6714-6715, U+6717, U+671b, U+671d, U+671f, U+6728, U+672a-672d, U+6731, U+6734, U+673a, U+673d,
@@ -3593,7 +3593,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/018.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/018.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+52f3, U+52f5, U+52f8-52f9, U+5306, U+5308, U+530d, U+530f-5310, U+5315, U+531a, U+5323, U+532f,
@@ -3612,7 +3612,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/037.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/037.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+7501, U+7517, U+752f, U+756f, U+7579, U+7592, U+75ce, U+75e4, U+7600, U+7602, U+7608, U+7615-7616,
@@ -3632,7 +3632,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/036.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/036.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6a50, U+6a56, U+6a5b, U+6a6b, U+6a73, U+6a89, U+6a94, U+6a9d-6a9e, U+6aa5, U+6ae4, U+6ae7, U+6b1b,
@@ -3652,7 +3652,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/042.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/042.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+504e, U+5053, U+5057, U+5063, U+5066, U+506a, U+5070, U+5088, U+5092-5093, U+5095-5096, U+509c,
@@ -3672,7 +3672,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/047.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/047.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+78fa-78fb, U+78fe, U+7910, U+791b, U+7925, U+7930, U+793b, U+794a, U+7958, U+795b, U+7967, U+7972,
@@ -3692,7 +3692,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/002.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/002.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+4e00-4e01, U+4e03, U+4e07-4e0b, U+4e0d-4e0e, U+4e11, U+4e14, U+4e16, U+4e18-4e19, U+4e1e, U+4e21,
@@ -3710,7 +3710,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/033.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/033.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+9b22-9b23, U+9b25, U+9b27-9b2a, U+9b2e-9b2f, U+9b31-9b32, U+9b3b, U+9b43-9b44, U+9b4d-9b4f, U+9b51,
@@ -3728,7 +3728,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/052.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/052.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+21742, U+219c3, U+21c56, U+21d2d, U+21d45, U+21d62, U+21d78, U+21d92, U+21d9c, U+21da1, U+21db7,
@@ -3750,7 +3750,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/038.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/038.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+833a, U+8343, U+8347, U+8351, U+8355, U+8362, U+837d, U+8386, U+8392, U+8398, U+83a7, U+83a9,
@@ -3770,7 +3770,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/034.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/034.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+3402, U+34b5, U+34db, U+378d, U+37e2, U+3b22, U+3bb6, U+3bc3, U+3c0f, U+3e3f, U+3f72, U+4264, U+4453,
@@ -3790,7 +3790,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/009.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/009.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+6bcd-6bce, U+6bd2, U+6bd4, U+6bd8, U+6bdb, U+6c0f, U+6c11, U+6c17, U+6c34, U+6c37-6c38, U+6c3e,
@@ -3810,7 +3810,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/051.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/051.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+9a31, U+9a36, U+9a44, U+9a4c, U+9a58, U+9aaf, U+9ab7, U+9ab9, U+9ac6, U+9ad0, U+9ad2, U+9ad5, U+9adc,
@@ -3830,7 +3830,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/019.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/019.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+57e3, U+580a-580b, U+5819, U+581d, U+5821, U+582f, U+583d, U+584b, U+5852, U+5862, U+5870, U+5872,
@@ -3849,7 +3849,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/003.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/003.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+516c-516d, U+5171, U+5175-5178, U+517c, U+5185-5186, U+518a, U+518d, U+5192, U+5197, U+5199, U+51a0,
@@ -3866,7 +3866,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/016.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/016.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+9700, U+9707, U+970a, U+971c, U+971e, U+9727, U+9732, U+9752, U+9756, U+9759, U+975e, U+9762, U+9769,
@@ -3883,7 +3883,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/005.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/005.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+5a01, U+5a03, U+5a18, U+5a20, U+5a29, U+5a2f, U+5a3c, U+5a41, U+5a46, U+5a5a, U+5a66, U+5a7f, U+5a92,
@@ -3901,7 +3901,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/010.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/010.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+719f, U+71b1, U+71c3, U+71c8, U+71d0, U+71d5, U+71e5-71e6, U+71ed, U+7206, U+722a, U+7235-7236,
@@ -3921,7 +3921,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/030.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/030.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+8b07, U+8b0c, U+8b10, U+8b14, U+8b16-8b17, U+8b1a, U+8b20, U+8b26, U+8b28, U+8b2b, U+8b33, U+8b3e,
@@ -3940,7 +3940,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/035.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/035.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+5c7a, U+5c8f, U+5c9f, U+5ca3, U+5caa, U+5cba, U+5ccb, U+5cd0, U+5cd2, U+5cf4, U+5d0d, U+5d27,
@@ -3960,7 +3960,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/006.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/006.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+5ead, U+5eb5-5eb8, U+5ec3, U+5ec9-5eca, U+5ed3, U+5edf-5ee0, U+5ef6-5ef7, U+5efa-5efc, U+5eff, U+5f01,
@@ -3979,7 +3979,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/032.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/032.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+965e-965f, U+9666, U+966c, U+9672, U+9677, U+968b, U+968d, U+9695, U+9697-9698, U+96a7-96a8, U+96aa,
@@ -3998,7 +3998,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/001.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/001.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+a0-a1, U+a4, U+a6, U+a9-ab, U+ad-af, U+b2-b3, U+b7-d6, U+d8-f6, U+f8-109, U+10c-10f, U+111-113,
@@ -4019,7 +4019,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/028.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/028.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+8216, U+8229, U+822b, U+822e, U+8233, U+8238, U+8240, U+8258-825a, U+825d, U+825f, U+8262, U+8264,
@@ -4039,7 +4039,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/050.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/050.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+91b6, U+91c3-91c4, U+91da, U+91ec, U+91ee, U+9201, U+920a, U+9216-9217, U+9233, U+9242, U+9247,
@@ -4059,7 +4059,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/039.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/039.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+92cb-92cc, U+92d3, U+92e0, U+92ff, U+9304, U+931f, U+9321, U+9325, U+9348-934a, U+9364-9365, U+936a,
@@ -4078,7 +4078,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/bold/031.woff) format('woff');
+  src: url(fonts//genei-m-gothic/bold/031.woff) format('woff');
   font-weight: 700;
   font-display: block;
   unicode-range: U+8ffa, U+9005, U+900b, U+900d-900e, U+9011, U+9015-9016, U+901e, U+9021, U+9027, U+9035-9036, U+9039,
@@ -4097,7 +4097,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/013.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/013.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+82f1, U+8302, U+8304-8305, U+830e, U+831c, U+8328, U+8336, U+8338, U+8349-834a, U+834f, U+8352,
@@ -4117,7 +4117,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/000.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/000.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+1-7f, U+a2-a3, U+a5, U+a7-a8, U+ac, U+b0-b1, U+b4, U+b6, U+d7, U+f7, U+2010, U+2013-2016, U+2018-2019,
@@ -4132,7 +4132,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/045.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/045.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6a83, U+6a8b, U+6a91, U+6a9f, U+6aa1, U+6aab, U+6abd, U+6ac6, U+6ad0, U+6ad4, U+6adc-6add, U+6aec,
@@ -4152,7 +4152,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/027.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/027.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+7dd5, U+7dd8, U+7ddc-7dde, U+7de1, U+7de4, U+7df2, U+7dfb, U+7e05, U+7e09-7e0b, U+7e12, U+7e1f,
@@ -4171,7 +4171,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/012.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/012.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+7d44, U+7d4c, U+7d50, U+7d5e, U+7d61-7d62, U+7d66, U+7d71, U+7d75-7d76, U+7d79, U+7d99-7d9a, U+7d9c,
@@ -4190,7 +4190,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/004.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/004.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+544a, U+5451, U+5468, U+546a, U+5473, U+547c-547d, U+548b-548c, U+54b2-54b3, U+54bd, U+54c0-54c1,
@@ -4209,7 +4209,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/011.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/011.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+7832, U+7834, U+783a, U+783f, U+785d, U+786b-786c, U+786f, U+7872, U+7881, U+7887, U+788d, U+7891,
@@ -4228,7 +4228,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/017.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/017.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+4e10, U+4e15, U+4e17, U+4e2a, U+4e31, U+4e36, U+4e3c, U+4e3f, U+4e42, U+4e55-4e56, U+4e58, U+4e62,
@@ -4247,7 +4247,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/044.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/044.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+626d, U+6273, U+627b, U+6299, U+62a6, U+62d5, U+62fd, U+6303, U+630d, U+6310, U+6332, U+6335,
@@ -4267,7 +4267,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/040.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/040.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+fa45-fa48, U+fa4a-fa57, U+fa59-fa5c, U+fa5f-fa65, U+fa67-fa6a, U+2000b, U+20b9f, U+2123d, U+2131b,
@@ -4276,7 +4276,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/023.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/023.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6a78, U+6a84, U+6a8d, U+6a90, U+6a97, U+6a9c, U+6aa0, U+6aa2-6aa3, U+6aaa, U+6aac, U+6aae, U+6ab3,
@@ -4296,7 +4296,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/041.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/041.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+3406, U+342c, U+342e, U+3468, U+346a, U+3492, U+34bc, U+34c1, U+34c7, U+351f, U+355d-355e, U+3563,
@@ -4316,7 +4316,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/015.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/015.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+9045, U+9047, U+904a-904b, U+904d-904e, U+9053-9055, U+905c, U+9060-9061, U+9063, U+9065, U+9069,
@@ -4335,7 +4335,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/022.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/022.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+665d-665f, U+6662, U+6664, U+6667-6668, U+6670, U+6683-6684, U+6688-6689, U+668e, U+6698, U+669d,
@@ -4354,7 +4354,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/007.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/007.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+62cd, U+62d0, U+62d2-62d3, U+62d8-62d9, U+62db, U+62dd, U+62e0-62e1, U+62ec-62ed, U+62f3, U+62f6-62f7,
@@ -4373,7 +4373,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/024.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/024.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6f78, U+6f7a, U+6f7c, U+6f80-6f82, U+6f86, U+6f8e, U+6f91, U+6fa1, U+6fa3-6fa4, U+6faa, U+6fb3,
@@ -4393,7 +4393,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/025.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/025.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+7513, U+7515, U+751e, U+7526, U+752c, U+7538, U+753c, U+7544, U+7546, U+7549-754b, U+754d,
@@ -4412,7 +4412,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/026.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/026.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+79b3, U+79b9-79ba, U+79c9, U+79d5, U+79e1, U+79e3, U+79e7, U+79ec, U+7a08, U+7a0d, U+7a18-7a19,
@@ -4431,7 +4431,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/049.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/049.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+87e5-87e6, U+87ea-87eb, U+87ed, U+87f5, U+8801, U+8803, U+880b, U+8813, U+8828, U+882e, U+8832,
@@ -4451,7 +4451,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/048.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/048.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+80f5, U+80fb, U+810d, U+8116, U+811e, U+8124, U+8127, U+812c, U+8135, U+813d, U+8169, U+8181,
@@ -4471,7 +4471,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/021.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/021.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6194, U+6196, U+6199-619a, U+61ab-61ac, U+61ae, U+61ba, U+61c3, U+61c6, U+61c8-61cd, U+61e3, U+61e6,
@@ -4490,7 +4490,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/020.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/020.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+5d90, U+5d9d, U+5da2, U+5dac, U+5dae, U+5db7, U+5dbc-5dbd, U+5dc9, U+5dcd, U+5dd2-5dd3, U+5dd6,
@@ -4509,7 +4509,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/029.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/029.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+86de-86df, U+86e9, U+86ec, U+86ef, U+86f9, U+86fb, U+8700, U+8703, U+8706, U+8708-870a, U+870d,
@@ -4529,7 +4529,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/043.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/043.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+593d, U+5946, U+595b, U+595f, U+5975-5976, U+597c, U+599f, U+59ae, U+59bc, U+59c8, U+59cd, U+59de,
@@ -4549,7 +4549,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/053.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/053.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+28dfb, U+28e1f, U+28e36, U+28e89, U+28eeb, U+28f32, U+28ff8, U+292a0, U+292b1, U+29490, U+295cf,
@@ -4558,7 +4558,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/014.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/014.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+8a51, U+8a54-8a55, U+8a5e, U+8a60, U+8a63, U+8a66, U+8a69, U+8a6b, U+8a6e, U+8a70-8a73, U+8a87,
@@ -4577,7 +4577,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/046.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/046.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+71d9, U+71dc, U+7207, U+722b, U+7234, U+7238-7239, U+7242, U+7253, U+7257, U+7263, U+726e-726f,
@@ -4597,7 +4597,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/008.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/008.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6714-6715, U+6717, U+671b, U+671d, U+671f, U+6728, U+672a-672d, U+6731, U+6734, U+673a, U+673d,
@@ -4616,7 +4616,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/018.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/018.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+52f3, U+52f5, U+52f8-52f9, U+5306, U+5308, U+530d, U+530f-5310, U+5315, U+531a, U+5323, U+532f,
@@ -4635,7 +4635,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/037.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/037.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+7501, U+7517, U+752f, U+756f, U+7579, U+7592, U+75ce, U+75e4, U+7600, U+7602, U+7608, U+7615-7616,
@@ -4655,7 +4655,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/036.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/036.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6a50, U+6a56, U+6a5b, U+6a6b, U+6a73, U+6a89, U+6a94, U+6a9d-6a9e, U+6aa5, U+6ae4, U+6ae7, U+6b1b,
@@ -4675,7 +4675,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/042.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/042.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+504e, U+5053, U+5057, U+5063, U+5066, U+506a, U+5070, U+5088, U+5092-5093, U+5095-5096, U+509c,
@@ -4695,7 +4695,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/047.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/047.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+78fa-78fb, U+78fe, U+7910, U+791b, U+7925, U+7930, U+793b, U+794a, U+7958, U+795b, U+7967, U+7972,
@@ -4715,7 +4715,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/002.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/002.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+4e00-4e01, U+4e03, U+4e07-4e0b, U+4e0d-4e0e, U+4e11, U+4e14, U+4e16, U+4e18-4e19, U+4e1e, U+4e21,
@@ -4733,7 +4733,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/033.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/033.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+9b22-9b23, U+9b25, U+9b27-9b2a, U+9b2e-9b2f, U+9b31-9b32, U+9b3b, U+9b43-9b44, U+9b4d-9b4f, U+9b51,
@@ -4751,7 +4751,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/052.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/052.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+21742, U+219c3, U+21c56, U+21d2d, U+21d45, U+21d62, U+21d78, U+21d92, U+21d9c, U+21da1, U+21db7,
@@ -4773,7 +4773,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/038.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/038.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+833a, U+8343, U+8347, U+8351, U+8355, U+8362, U+837d, U+8386, U+8392, U+8398, U+83a7, U+83a9,
@@ -4793,7 +4793,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/034.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/034.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+3402, U+34b5, U+34db, U+378d, U+37e2, U+3b22, U+3bb6, U+3bc3, U+3c0f, U+3e3f, U+3f72, U+4264, U+4453,
@@ -4813,7 +4813,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/009.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/009.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+6bcd-6bce, U+6bd2, U+6bd4, U+6bd8, U+6bdb, U+6c0f, U+6c11, U+6c17, U+6c34, U+6c37-6c38, U+6c3e,
@@ -4833,7 +4833,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/051.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/051.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+9a31, U+9a36, U+9a44, U+9a4c, U+9a58, U+9aaf, U+9ab7, U+9ab9, U+9ac6, U+9ad0, U+9ad2, U+9ad5, U+9adc,
@@ -4853,7 +4853,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/019.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/019.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+57e3, U+580a-580b, U+5819, U+581d, U+5821, U+582f, U+583d, U+584b, U+5852, U+5862, U+5870, U+5872,
@@ -4872,7 +4872,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/003.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/003.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+516c-516d, U+5171, U+5175-5178, U+517c, U+5185-5186, U+518a, U+518d, U+5192, U+5197, U+5199, U+51a0,
@@ -4889,7 +4889,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/016.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/016.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+9700, U+9707, U+970a, U+971c, U+971e, U+9727, U+9732, U+9752, U+9756, U+9759, U+975e, U+9762, U+9769,
@@ -4906,7 +4906,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/005.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/005.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+5a01, U+5a03, U+5a18, U+5a20, U+5a29, U+5a2f, U+5a3c, U+5a41, U+5a46, U+5a5a, U+5a66, U+5a7f, U+5a92,
@@ -4924,7 +4924,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/010.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/010.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+719f, U+71b1, U+71c3, U+71c8, U+71d0, U+71d5, U+71e5-71e6, U+71ed, U+7206, U+722a, U+7235-7236,
@@ -4944,7 +4944,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/030.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/030.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+8b07, U+8b0c, U+8b10, U+8b14, U+8b16-8b17, U+8b1a, U+8b20, U+8b26, U+8b28, U+8b2b, U+8b33, U+8b3e,
@@ -4963,7 +4963,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/035.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/035.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+5c7a, U+5c8f, U+5c9f, U+5ca3, U+5caa, U+5cba, U+5ccb, U+5cd0, U+5cd2, U+5cf4, U+5d0d, U+5d27,
@@ -4983,7 +4983,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/006.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/006.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+5ead, U+5eb5-5eb8, U+5ec3, U+5ec9-5eca, U+5ed3, U+5edf-5ee0, U+5ef6-5ef7, U+5efa-5efc, U+5eff, U+5f01,
@@ -5002,7 +5002,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/032.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/032.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+965e-965f, U+9666, U+966c, U+9672, U+9677, U+968b, U+968d, U+9695, U+9697-9698, U+96a7-96a8, U+96aa,
@@ -5021,7 +5021,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/001.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/001.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+a0-a1, U+a4, U+a6, U+a9-ab, U+ad-af, U+b2-b3, U+b7-d6, U+d8-f6, U+f8-109, U+10c-10f, U+111-113,
@@ -5042,7 +5042,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/028.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/028.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+8216, U+8229, U+822b, U+822e, U+8233, U+8238, U+8240, U+8258-825a, U+825d, U+825f, U+8262, U+8264,
@@ -5062,7 +5062,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/050.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/050.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+91b6, U+91c3-91c4, U+91da, U+91ec, U+91ee, U+9201, U+920a, U+9216-9217, U+9233, U+9242, U+9247,
@@ -5082,7 +5082,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/039.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/039.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+92cb-92cc, U+92d3, U+92e0, U+92ff, U+9304, U+931f, U+9321, U+9325, U+9348-934a, U+9364-9365, U+936a,
@@ -5101,7 +5101,7 @@
 }
 @font-face {
   font-family: '源暎エムゴ';
-  src: url(/fonts/genei-m-gothic/extraBold/031.woff) format('woff');
+  src: url(fonts//genei-m-gothic/extraBold/031.woff) format('woff');
   font-weight: 800;
   font-display: block;
   unicode-range: U+8ffa, U+9005, U+900b, U+900d-900e, U+9011, U+9015-9016, U+901e, U+9021, U+9027, U+9035-9036, U+9039,
