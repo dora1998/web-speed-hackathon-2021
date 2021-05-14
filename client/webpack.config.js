@@ -2,6 +2,7 @@ const path = require('path');
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const WorkerPlugin = require('worker-plugin');
 const webpack = require('webpack');
 
 const SRC_PATH = path.resolve(__dirname, './src');
@@ -89,6 +90,7 @@ const config = {
     new HtmlWebpackPlugin({
       template: path.resolve(SRC_PATH, './index.html'),
     }),
+    new WorkerPlugin(),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],
