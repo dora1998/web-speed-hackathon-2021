@@ -24,7 +24,7 @@ const PausableMovie = ({ src }) => {
   const animatorRef = React.useRef(null);
   /** @type {React.RefCallback<HTMLImageElement>} */
   const canvasCallbackRef = React.useCallback(
-    (el) => {
+    async (el) => {
       animatorRef.current?.stop();
 
       if (el === null || data === null) {
@@ -33,7 +33,7 @@ const PausableMovie = ({ src }) => {
 
       // GIF を解析する
       const reader = new GifReader(new Uint8Array(data));
-      const frames = Decoder.decodeFramesSync(reader);
+      const frames = await Decoder.decodeFramesAsync(reader);
       const animator = new Animator(reader, frames);
       animator.animateInCanvas(el);
 
