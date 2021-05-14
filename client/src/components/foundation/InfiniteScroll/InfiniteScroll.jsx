@@ -12,10 +12,9 @@ const InfiniteScroll = ({ children, fetchMore }) => {
 
   React.useEffect(() => {
     const handler = () => {
-      // 念の為 2の18乗 回、最下部かどうかを確認する
-      const hasReached = Array.from(Array(2 ** 18), () => {
+      const hasReached = () => {
         return window.innerHeight + Math.ceil(window.scrollY) >= document.body.offsetHeight;
-      }).every(Boolean);
+      };
 
       // 画面最下部にスクロールしたタイミングで、登録したハンドラを呼び出す
       if (hasReached && !prevReachedRef.current) {
