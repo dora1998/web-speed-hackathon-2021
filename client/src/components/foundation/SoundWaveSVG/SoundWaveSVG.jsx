@@ -1,5 +1,7 @@
 import _ from 'lodash';
 import React from 'react';
+import * as comlink from 'comlink';
+import PeaksWorker from './peaks.worker';
 
 /**
  * @typedef {object} Props
@@ -21,20 +23,17 @@ const SoundWaveSVG = ({ soundData }) => {
     const buffer = await new Promise((resolve, reject) => {
       audioCtx.decodeAudioData(soundData.slice(0), resolve, reject);
     });
-    // 左の音声データの絶対値を取る
-    const leftData = _.map(buffer.getChannelData(0), Math.abs);
-    // 右の音声データの絶対値を取る
-    const rightData = _.map(buffer.getChannelData(1), Math.abs);
+    const channelData = [buffer.getChannelData(0), buffer.getChannelData(1)];
 
-    // 左右の音声データの平均を取る
-    const normalized = _.map(_.zip(leftData, rightData), _.mean);
-    // 100 個の chunk に分ける
-    const chunks = _.chunk(normalized, Math.ceil(normalized.length / 100));
-    // chunk ごとに平均を取る
-    const peaks = _.map(chunks, _.mean);
-    // chunk の平均の中から最大値を取る
-    const max = _.max(peaks);
+    if (window.Worker) {
+      const worker = comlink.wrap(new PeaksWorker());
+      const { max, peaks } = await worker.calcPeaks(channelData);
+      console.log(max, peaks);
+      setPeaks({ max, peaks });
+      return;
+    }
 
+    const { max, peaks } = PeaksWorker.calcPeaks(channelData);
     setPeaks({ max, peaks });
   }, [soundData]);
 

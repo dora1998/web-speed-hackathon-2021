@@ -62,7 +62,7 @@
     "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2",
-    "worker-plugin": "^5.0.0"
+    "worker-loader": "^3.0.8"
   },
   "engines": {
     "node": "14.x.x"

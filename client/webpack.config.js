@@ -2,7 +2,6 @@ const path = require('path');
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const WorkerPlugin = require('worker-plugin');
 const webpack = require('webpack');
 
 const SRC_PATH = path.resolve(__dirname, './src');
@@ -38,6 +37,10 @@ const config = {
         exclude: /node_modules/,
         test: /\.jsx?$/,
         use: [{ loader: 'babel-loader' }],
+      },
+      {
+        test: /\.worker\.js$/,
+        use: { loader: 'worker-loader' },
       },
       {
         test: /\.css$/i,
@@ -90,7 +93,6 @@ const config = {
     new HtmlWebpackPlugin({
       template: path.resolve(SRC_PATH, './index.html'),
     }),
-    new WorkerPlugin(),
   ],
   resolve: {
     extensions: ['.js', '.jsx'],

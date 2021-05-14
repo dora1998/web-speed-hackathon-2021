@@ -17,10 +17,10 @@ import { SoundWaveSVG } from '../SoundWaveSVG';
  */
 const SoundPlayer = ({ sound }) => {
   const { data, isLoading } = useFetch(getSoundPath(sound.id), fetchBinary);
-
   const blobUrl = React.useMemo(() => {
     return data !== null ? URL.createObjectURL(new Blob([data])) : null;
   }, [data]);
+  const isReady = !(isLoading || data === null || blobUrl === null);
 
   const [currentTimeRatio, setCurrentTimeRatio] = React.useState(0);
   /** @type {React.ReactEventHandler<HTMLAudioElement>} */
@@ -43,10 +43,6 @@ const SoundPlayer = ({ sound }) => {
     });
   }, []);
 
-  if (isLoading || data === null || blobUrl === null) {
-    return null;
-  }
-
   return (
     <div className="flex items-center justify-center w-full h-full bg-gray-300">
       <audio ref={audioRef} loop={true} src={blobUrl} onTimeUpdate={handleTimeUpdate} />
@@ -55,6 +51,7 @@ const SoundPlayer = ({ sound }) => {
           className="flex items-center justify-center w-8 h-8 text-white text-sm bg-blue-600 rounded-full hover:opacity-75"
           type="button"
           onClick={handleTogglePlaying}
+          disabled={!isReady}
         >
           <FontAwesomeIcon iconType={isPlaying ? 'pause' : 'play'} styleType="solid" />
         </button>
@@ -65,13 +62,17 @@ const SoundPlayer = ({ sound }) => {
         <div className="pt-2">
           <AspectRatioBox aspectHeight={1} aspectWidth={10}>
             <div className="relative w-full h-full">
-              <div className="absolute inset-0 w-full h-full">
-                <SoundWaveSVG soundData={data} />
-              </div>
-              <div
-                className="absolute inset-0 w-full h-full bg-gray-300 opacity-75"
-                style={{ left: `${currentTimeRatio * 100}%` }}
-              ></div>
+              {isReady && (
+                <>
+                  <div className="absolute inset-0 w-full h-full">
+                    <SoundWaveSVG soundData={data} />
+                  </div>
+                  <div
+                    className="absolute inset-0 w-full h-full bg-gray-300 opacity-75"
+                    style={{ left: `${currentTimeRatio * 100}%` }}
+                  ></div>
+                </>
+              )}
             </div>
           </AspectRatioBox>
         </div>
